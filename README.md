@@ -1,7 +1,7 @@
-Hi,
+# Hi,
 I'm Linda Kainyu 👋
 
-About Me
+# About Me
 
 Hello there! I'm Linda Kainyu, a passionate beginner developer currently building my skills in programming and web development.
 
@@ -16,7 +16,7 @@ I use my GitHub profile, KainyuLinda, to document my learning journey, share pro
 
 I’m interested in collaborating on beginner-friendly web development and software projects. I’m also eager to learn more about open-source contribution, teamwork in software development, and best coding practices.
 
-Skills I'm Building
+# Skills I'm Building
 
 - HTML
 - CSS
@@ -24,28 +24,28 @@ Skills I'm Building
 - Git & GitHub
 - Web Development Fundamentals
 
-Interests
+# Interests
 
 - Web Development
 - Software Development
 - Open Source Projects
 - Learning New Technologies
 
-Ask Me About
+# Ask Me About
 
 - Python Basics
 - Web Development
 - GitHub
 - My Programming Journey
 
-How to Reach Me
+# How to Reach Me
 
 - GitHub: https://github.com/KainyuLinda
 
-Pronouns
+# Pronouns
 
 - She/Her
 
-Fun Fact
+# Fun Fact
 
 I enjoy discovering how technology and code can be used to solve real-world problems and create useful digital solutions.
